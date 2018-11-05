@@ -16,7 +16,7 @@ Wildcam is the winning project proposed in Zoohackathon KL 2018. It is an IoT ap
 - Javascript
 
 # Usage
-Wildcam requires image processing server to help in recognizing the wildlife species. Therefore, u need to configure app.py on your server in order to run the client, camera-zoo.py on the slave camera.
+Wildcam requires an image processing server to help in recognizing the wildlife species. Therefore, u need to configure app.py on your server in order to run the client, camera-zoo.py on the slave camera.
 
 # Credits
 @huseinzol05
