@@ -13,4 +13,4 @@ Responsive analytical graphs that response to real time inputs
 Heatmap
 
 # Usage
-Wildcam requires an image processing server to help in recognizing the wildlife species
+Wildcam requires image processing server to help in recognizing the wildlife species
