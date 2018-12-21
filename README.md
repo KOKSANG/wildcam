@@ -4,7 +4,7 @@ Wildcam is the winning project proposed in Zoohackathon KL 2018. It is an IoT ap
 
 # Built On:
 - Tensorflow Inception v3
-- SocketIO
+- Flask
 
 # Features
 - Real time livestream from cameras
